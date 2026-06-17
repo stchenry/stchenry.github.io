@@ -1,3 +1,3 @@
-# Try github.io!
+# stchenry's blog
 
-lorem ipsum
+Click [here](https://stchenry.github.io/) to view my blog.

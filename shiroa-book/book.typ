@@ -4,7 +4,7 @@
 #show: book
 
 #book-meta(
-  title: "stchenry's blogs",
+  title: "stchenry's blog",
   summary: [
     #chapter("chapters/shiroa-github-page-setup.typ")[How to create a github page like this using Shiroa]
     #chapter("chapters/random-thoughts.typ")[Random thoughts]
