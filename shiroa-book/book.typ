@@ -4,9 +4,10 @@
 #show: book
 
 #book-meta(
-  title: "shiroa",
+  title: "stchenry's blog",
   summary: [
-    #prefix-chapter("sample-page.typ")[Hello, typst]
+    #prefix-chapter("chapters/sample-page.typ")[Hello, typst]
+    #chapter("chapters/random-thoughts.typ")[Random thoughts]
   ]
 )
 
