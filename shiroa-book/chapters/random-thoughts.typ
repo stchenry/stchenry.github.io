@@ -1,6 +1,6 @@
 #import "../book.typ": book-page
 
-#show: book-page.with(title: "Random thoughts")
+#show: book-page
 
 = On the translation of "forward/backward compatibility" in Chinese (2026/6/17)
 

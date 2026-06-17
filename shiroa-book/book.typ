@@ -4,9 +4,9 @@
 #show: book
 
 #book-meta(
-  title: "stchenry's blog",
+  title: "stchenry's blogs",
   summary: [
-    #prefix-chapter("chapters/sample-page.typ")[Hello, typst]
+    #chapter("chapters/shiroa-github-page-setup.typ")[How to create a github page like this using Shiroa]
     #chapter("chapters/random-thoughts.typ")[Random thoughts]
   ]
 )
